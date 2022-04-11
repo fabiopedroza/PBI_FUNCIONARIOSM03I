@@ -15,7 +15,6 @@
 | [Imagens](https://github.com/fabiopedroza/PBI_Funcionarios_M03I/tree/master/Imagens) | Todas as imagens utilizadas                |
 | [Projetos](https://github.com/fabiopedroza/PBI_Funcionarios_M03I/tree/master/Projeto) | Projetos finais do Power BI extensão .pbix |
 
-
 <h5 align="left"> 📱 Projetos: </h5>
 
 ![Imagem0](https://github.com/fabiopedroza/PBI_Funcionarios_M03I/tree/master/Dashboards/Contratações.png)
