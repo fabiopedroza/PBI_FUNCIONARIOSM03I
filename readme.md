@@ -17,14 +17,10 @@
 
 <h5 align="left"> 📱 Projetos: </h5>
 
-![Imagem0](https://github.com/fabiopedroza/PBI_Funcionarios_M03I/tree/master/Dashboards/Contratações.png)
+![Imagem0](https://github.com/fabiopedroza/PBI_Funcionarios_M03I/blob/master/Dashboards/Contratacoes.png)
 <br />
 <br />
-![Imagem0](PBI_Funcionarios_M03I/Dashboards/MapaDeContratações.png)
-
-<br />
-<br />
-![Imagem1](https://github.com/fabiopedroza/Projeto_PowerBI_Vendas01/blob/master/Dashboard/VendasF01.png)
+![Imagem0](https://github.com/fabiopedroza/PBI_Funcionarios_M03I/blob/master/Dashboards/MapaDeContratacoes.png)
 
 
 <h5 align="left"> 🌐 Publicado na internet: </h5>
