@@ -6,6 +6,30 @@
 
 <p align="justify">🗓️ Fazer diversos tratamentos na base de dados, incluvise transformar coluna de data no formato americano, mas foi reconhecido como coluna de texto.</p>
 
+📂 Organização:
+
+| Sumário                                                      | Informações                                |
+| ------------------------------------------------------------ | ------------------------------------------ |
+| [Base   de Dados](https://github.com/fabiopedroza/PBI_Funcionarios_M03I/tree/master/BaseDados) | Planilha com os dados para os dashboards   |
+| [Dashbords](https://github.com/fabiopedroza/PBI_Funcionarios_M03I/tree/master/Dashboards) | Dashbords contruídos                       |
+| [Imagens](https://github.com/fabiopedroza/PBI_Funcionarios_M03I/tree/master/Imagens) | Todas as imagens utilizadas                |
+| [Projetos](https://github.com/fabiopedroza/PBI_Funcionarios_M03I/tree/master/Projeto) | Projetos finais do Power BI extensão .pbix |
+
+
+<h5 align="left"> 📱 Projetos: </h5>
+
+![Imagem0](https://github.com/fabiopedroza/PBI_Funcionarios_M03I/tree/master/Dashboards/Contratações.png)
+<br />
+<br />
+![Imagem0](https://github.com/fabiopedroza/PBI_Funcionarios_M03I/tree/master/Dashboards/MapaDeContratações.png)
+
+
+<h5 align="left"> 🌐 Publicado na internet: </h5>
+
+https://app.powerbi.com/view?r=eyJrIjoiY2JmNDMwYWEtMjA4Yy00Y2I1LWFiMDctNTRjOWJjN2E0MzA1IiwidCI6IjhlMmZjMDhmLTM2Y2ItNGZmYy1iYjZkLTU1NDM1YzQwNTUyNSJ9&pageName=ReportSection29d04721dfa3274d389c
+
+
+
 
 <h5 align="left"> 🔑 Dicas: </h5>
 
@@ -19,9 +43,19 @@
 
 <h5 align="left"> 📀 Fontes Utilizadas: </h5>
 
-​	 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 
-<h5 ajusted="left" > 📘 Curso: </h5>
+https://www.flaticon.com/
+
+https://powerbi.microsoft.com/pt-br/
+
+https://docs.microsoft.com/pt-br/dax/averagex-function-dax (AVERAGEX)
+
+https://support.microsoft.com/pt-br/office/contar-vazio-fun%C3%A7%C3%A3o-contar-vazio-6a92d772-675c-4bee-b346-24af6bd3ac22 (COUNTBLANK)
+
+https://support.microsoft.com/pt-br/office/fun%C3%A7%C3%A3o-count-6923a7b3-aa59-4027-ada6-d774525a4009 (COUNT)
+
+
 
 
 
