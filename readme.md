@@ -21,7 +21,7 @@
 ![Imagem0](https://github.com/fabiopedroza/PBI_Funcionarios_M03I/tree/master/Dashboards/Contratações.png)
 <br />
 <br />
-![Imagem0](https://github.com/fabiopedroza/PBI_Funcionarios_M03I/tree/master/Dashboards/MapaDeContratações.png)
+![Imagem1](https://github.com/fabiopedroza/PBI_Funcionarios_M03I/tree/master/Dashboards/MapaDeContratações.png)
 
 
 <h5 align="left"> 🌐 Publicado na internet: </h5>
