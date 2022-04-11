@@ -22,6 +22,10 @@
 <br />
 ![Imagem0](PBI_Funcionarios_M03I/Dashboards/MapaDeContratações.png)
 
+<br />
+<br />
+![Imagem1](https://github.com/fabiopedroza/Projeto_PowerBI_Vendas01/blob/master/Dashboard/VendasF01.png)
+
 
 <h5 align="left"> 🌐 Publicado na internet: </h5>
 
