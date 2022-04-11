@@ -18,10 +18,10 @@
 
 <h5 align="left"> 📱 Projetos: </h5>
 
-![Imagem0](PBI_Funcionarios_M03I/Dashboards//MapaDeContratações.png)
+![Imagem0](https://github.com/fabiopedroza/PBI_Funcionarios_M03I/tree/master/Dashboards/Contratações.png)
 <br />
 <br />
-![Imagem1](https://github.com/fabiopedroza/PBI_Funcionarios_M03I/tree/master/Dashboards/MapaDeContratacoes.png)
+![Imagem0](PBI_Funcionarios_M03I/Dashboards/MapaDeContratações.png)
 
 
 <h5 align="left"> 🌐 Publicado na internet: </h5>
